@@ -14,7 +14,7 @@ h1 {
   text-transform: uppercase;
 }
 
-.wrapper {
+.types {
   background-color: #eee8d5;
 }
 
@@ -22,46 +22,38 @@ h2 {
   color: #93a1a1;
 }
 
-.wrapper {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
-strong {
+.wapper > .dfn > strong {
   color: #fff;
 }
 
-wrapper a {
-    background-color: #719e07;
-  }
+.no-highlight {
+  background-color: #719e07;
+}
 
-link rel {
+ul li:last-child {
   background-color: #2694d8;
 }
 
-li ol  {
-  color: #2aa198;
-}
-
-li .types {
-  background-color: #657ba3;
-}
-
-h1 ol, il {
+ol li:first-child {
   color: #719e47;
 }
 
-h2 li, favs {
+ol li:last-child {
   color: #2aa198;
 }
 
-h2 .types: 52, 54, 56, 58, 60, 62, 64 {
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-h2 .types: 53, 55, 57, 59, 61, 63, 65 {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-h2 .types: 54, 57, 60, 63 {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
