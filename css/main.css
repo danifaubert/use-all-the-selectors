@@ -14,10 +14,54 @@ h1 {
   text-transform: uppercase;
 }
 
-.main {
+.wrapper {
   background-color: #eee8d5;
 }
 
 h2 {
   color: #93a1a1;
+}
+
+.wrapper {
+  background-color: #b58900;
+}
+
+strong {
+  color: #fff;
+}
+
+wrapper a {
+    background-color: #719e07;
+  }
+
+link rel {
+  background-color: #2694d8;
+}
+
+li ol  {
+  color: #2aa198;
+}
+
+li .types {
+  background-color: #657ba3;
+}
+
+h1 ol, il {
+  color: #719e47;
+}
+
+h2 li, favs {
+  color: #2aa198;
+}
+
+h2 .types: 52, 54, 56, 58, 60, 62, 64 {
+  background-color: #657ba3;
+}
+
+h2 .types: 53, 55, 57, 59, 61, 63, 65 {
+  background-color: #586e75;
+}
+
+h2 .types: 54, 57, 60, 63 {
+  background-color: #d04b16;
 }
