@@ -2,7 +2,7 @@ html {
   background-color: #fdf6e3;
 }
 
-h1, h2 {
+h1, footer {
   font-size: 1.5rem;
 }
 
@@ -16,10 +16,7 @@ h1 {
 
 .types {
   background-color: #eee8d5;
-}
-
-.types {
-  color: #93a1a1;
+    color: #93a1a1;
 }
 
 .wrapper > .dfn {
