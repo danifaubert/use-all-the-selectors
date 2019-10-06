@@ -18,7 +18,7 @@ h1 {
   background-color: #eee8d5;
 }
 
-h2 {
+.types {
   color: #93a1a1;
 }
 
@@ -28,10 +28,6 @@ h2 {
 
 .wapper > .dfn > strong {
   color: #fff;
-}
-
-.no-highlight {
-  background-color: #719e07;
 }
 
 ul li:last-child {
@@ -56,4 +52,8 @@ ol li:last-child {
 
 .types li:nth-child(3n) {
   background-color: #d04b16;
+}
+
+.no-highlight {
+  background-color: #719e07;
 }
