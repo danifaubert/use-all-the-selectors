@@ -14,9 +14,13 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  color: #93a1a1;
+}
+
 .types {
   background-color: #eee8d5;
-    color: #93a1a1;
+  color: #93a1a1;
 }
 
 .wrapper > .dfn {
